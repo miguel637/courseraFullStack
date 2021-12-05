@@ -1,0 +1,19 @@
+{
+  "name": "semana-1",
+  "version": "1.0.0",
+  "description": "Nuestro primer proyecto de nodeJs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguel637/courseraFullStack.git"
+  },
+  "author": "Miguel Alejandro Gomez Alarcon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguel637/courseraFullStack/issues"
+  },
+  "homepage": "https://github.com/miguel637/courseraFullStack#readme"
+}
